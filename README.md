@@ -1,2 +1,1 @@
-# OCWSP
-obsidian-codex-window-switcher-powertoys
+# WCKT - window control keybinds tool
