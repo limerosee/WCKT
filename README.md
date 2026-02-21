@@ -1,1 +1,1 @@
-# WCKT - window control keybinds tool
+# WCKT - window control keybinds tool (SnapLink)
